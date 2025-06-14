@@ -5,6 +5,3 @@ from github
 
 two more lines from git gui
 123455666
-
-next couplet of the song
---------------------------------
